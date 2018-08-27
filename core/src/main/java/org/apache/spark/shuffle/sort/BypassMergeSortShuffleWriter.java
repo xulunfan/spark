@@ -1,4 +1,4 @@
-/*
+/* 和Hash Shuffle实现基本相同，区别在于map task输出会汇总为一个文件
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
  * this work for additional information regarding copyright ownership.
